@@ -1,9 +1,13 @@
 ## Hi guys, I am Hércules Maranhão ✌️
 
+### Who am I?
+
+I've been a developer since 2016, I've worked with several tools and technologies and today I work as a Front-End Developer. I'm a Christian, I really like music, games and basketball, I'm a big fan of the NBA and the Los Angeles Lakers, but one of the things I love the most is programming, I study a lot to keep myself updated and I always try to share and learn more with other people and with the community.
+
 ### My Skills
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/hmaranhao/github-readme-stats)
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/hmaranhao/github-readme-stats)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,3 +44,11 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCB4O-t0zmD6BPAXx3fQcz-Q)
 [![Facebook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/gaming/kamuiigameplay)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kamuiigameplay)
+
+### Metrics
+
+[![Numbers](https://github-readme-stats.vercel.app/api?username=hmaranhao&theme=blue-green&count_private=true&show_icons=true&hide=contribs)](https://github.com/hmaranhao/github-readme-stats)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmaranhao&theme=blue-green)](https://github.com/hmaranhao/github-readme-stats)
+
+
