@@ -47,7 +47,7 @@ I've been a developer since 2016, I've worked with several tools and technologie
 
 ### Metrics
 
-[![Numbers](https://github-readme-stats.vercel.app/api?username=hmaranhao&theme=blue-green&count_private=true&show_icons=true&hide=contribs)](https://github.com/hmaranhao/hmaranhao)
+[![Numbers](https://github-readme-stats.vercel.app/api?username=hmaranhao&theme=blue-green&count_private=true&show_icons=true)](https://github.com/hmaranhao/hmaranhao)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmaranhao&theme=blue-green)](https://github.com/hmaranhao/hmaranhao)
 
